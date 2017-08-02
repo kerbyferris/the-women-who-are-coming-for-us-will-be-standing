@@ -7,24 +7,23 @@
 
 > **importMonad.IO.Class\(MonadIO, liftIO\)**
 >
-> **  
-> **
 >
-> **theWomenWhoAreComing::forUsWill-&gt;beStanding\(\)**
 >
-> **theyWill=dedicate sadness and open fires=&gt;to each oneOfTheWorlds**
+>         **theWomenWhoAreComing::forUsWill-&gt;beStanding\(\)**
 >
-> **\(the present\) && \(the future\)**
+>         **theyWill=dedicate sadness and open fires=&gt;to each oneOfTheWorlds**
 >
-> **theyWill=play at topography and riddles&lt;-in dinosaurs && in string**
+>                 **\(the present\) && \(the future\)**
 >
-> **-- it is in fine acts of casual extrication, that the women who are coming for us**
+>          **theyWill=play at topography and riddles&lt;-in dinosaurs && in string**
 >
-> **-- will place ritual where there was slumber,**
+>          **-- it is in fine acts of casual extrication, that the women who are coming for us**
 >
-> **-- and where there were statues, there will be stars.**
+>          **-- will place ritual where there was slumber,**
 >
-> **  
+>          **-- and where there were statues, there will be stars.**
+>
+> **    
 > **
 >
 > **-- in slim lines which detail musculature and melody,**
@@ -41,13 +40,7 @@
 >
 > **=$=**
 >
-> **thrilling **
->
-> **&**
->
-> **&**
->
-> ** awake**
+> **thrilling && awake**
 
 
 
