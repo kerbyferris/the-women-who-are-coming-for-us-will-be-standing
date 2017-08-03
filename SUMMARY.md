@@ -10,9 +10,9 @@
 >     
 > theWomenWhoAreComing :: forUsWill -> beStanding()
 >
->     theyWill=dedicate sadness and open fires=&gt;to each oneOfTheWorlds
+>     theyWill = dedicate sadness and open fires => to each oneOfTheWorlds
 >             (the present) && (the future)
->     theyWill=play at topography and riddle <- in dinosaurs && in string
+>     theyWill = play at topography and riddle <- in dinosaurs && in string
 >     -- it is in fine acts of casual extrication, that the women who are coming for us
 >     -- will place ritual where there was slumber,
 >     -- and where there were statues, there will be stars.
