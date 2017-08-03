@@ -8,7 +8,7 @@
 > ```
 > importMonad.IO.Class(MonadIO, liftIO)    
 >     
-> theWomenWhoAreComing::forUsWill-&gt;beStanding()
+> theWomenWhoAreComing :: forUsWill -> beStanding()
 >
 >     theyWill=dedicate sadness and open fires=&gt;to each oneOfTheWorlds
 >             (the present) && (the future)
